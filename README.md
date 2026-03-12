@@ -1,4 +1,5 @@
 # University Management System (SQL)
+This is my Final Capstone Project for the SQL Database Development course. It serves as a practical demonstration of my skills in database design, data manipulation, and advanced analytical querying.
 
 A relational database project designed to manage university data, including students, courses, and academic performance tracking.
 
